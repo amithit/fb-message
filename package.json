@@ -21,7 +21,7 @@
     "standard": "^14.0.0"
   },
   "dependencies": {
-    "node-fetch": "^2.2.0"
+    "node-fetch": "2.6.1"
   },
   "repository": {
     "type": "git",
